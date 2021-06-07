@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: To Do
-permalink: /:collection/todo/
+permalink: /todo/
 ---
 
 - TOC
