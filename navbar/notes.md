@@ -16,7 +16,7 @@ HTML, Bootstrap, Javascript, Angular, Vue.js
 [**Cloud Tech**](/cloud)  
 WebServices, Microservices, Containerization, AWS, Apache Kafka, Auth0
 
-[**Systems Design**](/architect)  
+[**Systems Design**](/systems)  
 Design Patterns, Distributed Systems, System Design
 
 [**Devtools**](/devtools)  
