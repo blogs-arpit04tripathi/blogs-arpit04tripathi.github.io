@@ -9,10 +9,8 @@ permalink: /notes/
 [**CSE Subjects**](/cse)  
 Data Structures, Algorithms, DBMS, OS, Computer Networks
 
-[**Java and Frameworks**](/java)
-  - [Java](java)
-  - [Spring](spring)
-  - [Hibernate](hibernate)
+[**Java and Frameworks**](/java)  
+Java, Spring, Hibernate
 
 [**FrontEnd Technologies**](/front-end)  
 HTML, Bootstrap, Javascript, Angular, Vue.js
