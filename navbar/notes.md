@@ -27,14 +27,3 @@ Clean Code, Programming, Cheat-Sheet, Puzzles
 
 [**Others**](/others)  
 Chrome Extn, Jekyll
-
-- [JUnit](junit)
-- [Cucumber](cucumber)
-- [Logger](logger)
-- [Git](git)
-- [Maven](maven)
-- [Gradle](gradle)
-- [Jenkins](jenkins)
-- [Swagger](swagger)
-- [JSON](json)
-- [XML](xml)
