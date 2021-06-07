@@ -10,19 +10,16 @@ permalink: /notes/
 Data Structures, Algorithms, DBMS, OS, Computer Networks
 
 [**Java and Frameworks**](/java)  
-Java, Spring, Hibernate
+Java, Spring, Hibernate, Http/CORS
 
 [**FrontEnd Technologies**](/front-end)  
 HTML, Bootstrap, Javascript, Angular, Vue.js
 
-[**Cloud Tech**](/cloud)
+[**Cloud Tech**](/cloud)  
 WebServices, Microservices, Containerization, AWS, Apache Kafka, Auth0
 
-[**Systems Design**](/architect)
-  - [Http and CORS](http)
-  - [Design Patterns](design-patterns)
-  - [Distributed Systems](distributed-systems)
-  - [System Design](system-design)
+[**Systems Design**](/architect)  
+Design Patterns, Distributed Systems, System Design
 
 [**Devtools**](/devtools)  
 JUnit, Cucumber, Logger, Git, Maven, Gradle, Jenkins, Swagger, JSON, XML
