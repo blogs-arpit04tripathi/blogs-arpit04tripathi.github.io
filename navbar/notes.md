@@ -9,17 +9,13 @@ permalink: /notes/
 [**CSE Subjects**](/cse)  
 Data Structures, Algorithms, DBMS, OS, Computer Networks
 
-**Java and Frameworks**
+[**Java and Frameworks**](/java)
   - [Java](java)
   - [Spring](spring)
   - [Hibernate](hibernate)
 
-**FrontEnd Technologies**
-  - [Vue.js](vuejs)
-  - [Angular](angular)
-  - [Bootstrap](bootstrap)
-  - [Javascript](js)
-  - [HTML](html)
+[**FrontEnd Technologies**](/front-end)  
+HTML, Bootstrap, Javascript, Angular, Vue.js
 
 **Common Patterns**
   - [Design Patterns](design-patterns)
@@ -37,7 +33,9 @@ Data Structures, Algorithms, DBMS, OS, Computer Networks
   - [Distributed Systems](distributed-systems)
   - [System Design](system-design)
 
-**Devtools**
+[**Devtools**](/devtools)
+JUnit, Cucumber, Logger, Git, Maven, Gradle, Jenkins, Swagger, JSON, XML
+
   - [JUnit](junit)
   - [Cucumber](cucumber)
   - [Logger](logger)
