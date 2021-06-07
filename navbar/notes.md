@@ -33,7 +33,7 @@ HTML, Bootstrap, Javascript, Angular, Vue.js
   - [Distributed Systems](distributed-systems)
   - [System Design](system-design)
 
-[**Devtools**](/devtools)
+[**Devtools**](/devtools)  
 JUnit, Cucumber, Logger, Git, Maven, Gradle, Jenkins, Swagger, JSON, XML
 
   - [JUnit](junit)
@@ -47,12 +47,13 @@ JUnit, Cucumber, Logger, Git, Maven, Gradle, Jenkins, Swagger, JSON, XML
   - [JSON](json)
   - [XML](xml)
 
-**Programming Basics**
+[**Programming Basics**](/programming)  
+Clean Code, Programming, Cheat-Sheet, Puzzles
+
   - [Clean Code](clean-code)
   - [Programming Basics](programming/basics)
   - [Coding Cheatsheet](programming/cheatsheet)
   - [Puzzles](others/puzzles)
 
-**Others**
-  - [Chrome Extn](chrome-extn)
-  - [Jekyll](jekyll)
+[**Others**](/others)  
+Chrome Extn, Jekyll
