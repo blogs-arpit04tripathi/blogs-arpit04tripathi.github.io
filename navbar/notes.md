@@ -48,10 +48,5 @@ JUnit, Cucumber, Logger, Git, Maven, Gradle, Jenkins, Swagger, JSON, XML
 [**Programming Basics**](/programming)  
 Clean Code, Programming, Cheat-Sheet, Puzzles
 
-  - [Clean Code](clean-code)
-  - [Programming Basics](programming/basics)
-  - [Coding Cheatsheet](programming/cheatsheet)
-  - [Puzzles](others/puzzles)
-
 [**Others**](/others)  
 Chrome Extn, Jekyll
