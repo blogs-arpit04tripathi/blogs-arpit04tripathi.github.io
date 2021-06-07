@@ -1,2 +1,33 @@
-theme: jekyll-theme-cayman
+# Site settings
+# accessed via {{ site.title }}, {{ site.email }}
 title: Arpit Tripathi
+description: Arpit Tripathi's blogs.
+
+# DNS config
+url: "http://blogs.arpit04tripathi.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# theme variables
+iconURL: "/assets/logo/logo-arpit04tripathi.jpeg" #url/iconURL
+
+# custom variables
+cdn: https://raw.githubusercontent.com/blogs-arpit04tripathi/files-cdn/cdn
+
+# Setting theme
+# theme: jekyll-theme-leaf                      # For supported theme
+remote_theme: SupunKavinda/jekyll-theme-leaf    # For custom themes
+
+# social icons
+github_username:  arpit04tripathi
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Collections - post, notes, etc.
+collections_dir: collections
+collections:
+  notes:
+    output: true
+  career:
+    output: true

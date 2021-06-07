@@ -1,4 +1,6 @@
-Sub Pages
-- [Blogs Notebook](/notebook){:target="_blank"}
-- [Template](/template){:target="_blank"}
-- [CSE](/cse){:target="_blank"}
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---

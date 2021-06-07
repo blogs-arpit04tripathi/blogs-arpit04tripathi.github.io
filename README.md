@@ -1,2 +1,6 @@
-# Arpit Tripathi Blogs Space
-Home page for blogs
+# notebook
+Notebook gh-page
+
+```
+bundle exec jekyll serve --incremental
+```
