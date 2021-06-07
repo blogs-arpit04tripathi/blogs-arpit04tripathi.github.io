@@ -6,7 +6,7 @@ permalink: /notes/
 
 [To Do Topics](todo){:target="_blank"}
 
-[**CSE Subjects**](cse)  
+[**CSE Subjects**](/cse)  
 Data Structures, Algorithms, DBMS, OS, Computer Networks
 
 **Java and Frameworks**
