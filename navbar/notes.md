@@ -15,24 +15,23 @@ Java, Spring, Hibernate
 [**FrontEnd Technologies**](/front-end)  
 HTML, Bootstrap, Javascript, Angular, Vue.js
 
-**Common Patterns**
-  - [Design Patterns](design-patterns)
+[**Cloud Tech**](/cloud)
+WebServices, Microservices, Containerization, AWS, Apache Kafka, Auth0
+
+[**Systems Design**](/architect)
   - [Http and CORS](http)
-
-**Cloud Tech**
-  - [Web Services](webservices)
-  - [Microservices](microservices)
-  - [AWS](aws)
-  - [Apache Kafka](kafka)
-  - [Auth0](auth0)
-  - [Containerization](containerization)
-
-**Distributed Systems**
+  - [Design Patterns](design-patterns)
   - [Distributed Systems](distributed-systems)
   - [System Design](system-design)
 
 [**Devtools**](/devtools)  
 JUnit, Cucumber, Logger, Git, Maven, Gradle, Jenkins, Swagger, JSON, XML
+
+[**Programming Basics**](/programming)  
+Clean Code, Programming, Cheat-Sheet, Puzzles
+
+[**Others**](/others)  
+Chrome Extn, Jekyll
 
   - [JUnit](junit)
   - [Cucumber](cucumber)
@@ -44,9 +43,3 @@ JUnit, Cucumber, Logger, Git, Maven, Gradle, Jenkins, Swagger, JSON, XML
   - [Swagger](swagger)
   - [JSON](json)
   - [XML](xml)
-
-[**Programming Basics**](/programming)  
-Clean Code, Programming, Cheat-Sheet, Puzzles
-
-[**Others**](/others)  
-Chrome Extn, Jekyll
