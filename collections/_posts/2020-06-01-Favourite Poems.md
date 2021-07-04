@@ -13,15 +13,14 @@ permalink: /:collection/poems
 # Moral Short Stories
 
 ## Duck on a Pond!
-```
 Have you ever seen a duck swimming in a pond? It appears so calm - almost tranquil! But do you know that underneath the surface, it is paddling away crazily at a speed of more than 50 miles per hour! That’s how it swims.
 
 You gotta be just like a duck on a pond!
 On the surface, you must be calm… very very calm… But underneath, you have to paddle away like crazy…
 That’s the mantra of being successful in life - Duck on a Pond!
-```
+
 ## A person who thinks too much of the alternatives
-```
+
 A professor asked us in a class one day "Can anyone of you tell me why only a few of a class of say 50 students will be able to repeat everything I said and the rest won't? 
 
 To which one replied "it's probably because of the concentration level sir, some have better than others. " 
@@ -33,9 +32,9 @@ Seeing the student flabbergasted he went on explaining "Amongst all of you,  the
 an another group might be under the impression that this guy doesn't know anything,  
 
 but the people I am talking about, are the ones who trust me fully and have devoted themselves to me. They hear me out before being judgemental, I am not saying I am always right but I am saying that they're hearing to what I say and that is the key. A person who thinks too much of the alternatives rather than focusing on the current path seldom finds that perfect alternative". 
-```
+
 ## The Abundance Principle
-```
+
 Once a man got lost in a desert. The water in his flask had run out two days ago, and he was on his last legs. He knew that if he didn't get some water soon, he would surely die. The man saw a small hut ahead of him. He thought it would be a mirage or maybe a hallucination, but having no other option, he moved toward it. As he got closer, he realized it was quite real. So he dragged his tired body to the door with the last of his strength.
 
 The hut was not occupied and seemed like it had been abandoned for quite some time. The man entered into it, hoping against hope that he might find water inside.
@@ -73,7 +72,7 @@ Without knowing what to expect, he made a Leap of Faith.
 Water in this story represents the Good things in Life
 
 Give life some Water to Work with, and it will RETURN far more than you put in........!!
-```
+
 
 # Poems
 
@@ -128,7 +127,7 @@ In saanson par haqq hai jinka, unko samjhaana baaki hai.
 Aahista chal zindagi, abhi kai karz chukana baki hai.......... 
 ```
 
-# A Psalm of Life
+## A Psalm of Life
 ```
 Tell me not, in mournful numbers, 
 Life is but an empty dream! 
@@ -176,7 +175,7 @@ Still achieving, still pursuing,
 Learn to labor and to wait.
 ```
 
-# If
+## If
 ```
 If you can keep your head when all about you 
 Are losing theirs and blaming it on you; 
@@ -219,7 +218,7 @@ Yours is the Earth and everything that's in it,
 And---which is more---you'll be a Man, my son!
 ```
 
-# If You Forget Me
+## If You Forget Me
 ```
 I want you to know 
 one thing. 
@@ -330,7 +329,7 @@ I rise
 I rise.
 ```
 
-# कोशिश करने वालों की
+## कोशिश करने वालों की
 ```
 लहरों से डर कर नौका पार नहीं होती,
 कोशिश करने वालों की कभी हार नहीं होती।
